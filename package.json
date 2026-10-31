@@ -1,0 +1,13 @@
+{
+  "name": "studentchatbott",
+  "version": "1.0.0",
+  "private": true,
+  "description": "English-language Coursera Student Advisor webhook for IBM watsonx Assistant",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/advisor.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
