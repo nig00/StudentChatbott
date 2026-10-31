@@ -1,0 +1,185 @@
+{
+  "catalog_note": "Illustrative course recommendations. Confirm current availability and details on Coursera before using them in production. Links open Coursera search results rather than promising a fixed course URL.",
+  "courses": [
+    {
+      "id": "py-01",
+      "title": "Python for Everybody Specialization",
+      "provider": "University of Michigan",
+      "category": "Python",
+      "level": "Beginner",
+      "description": "Learn programming foundations, data structures, and how to use Python with web data.",
+      "url": "https://www.coursera.org/search?query=Python%20for%20Everybody",
+      "tags": ["python", "programming", "foundations"]
+    },
+    {
+      "id": "py-02",
+      "title": "Crash Course on Python",
+      "provider": "Google",
+      "category": "Python",
+      "level": "Beginner",
+      "description": "Develop practical Python scripting skills for automation and problem solving.",
+      "url": "https://www.coursera.org/search?query=Crash%20Course%20on%20Python",
+      "tags": ["python", "automation", "scripting"]
+    },
+    {
+      "id": "py-03",
+      "title": "Python for Data Science, AI & Development",
+      "provider": "IBM",
+      "category": "Python",
+      "level": "Beginner",
+      "description": "Use Python, notebooks, and data-focused programming exercises.",
+      "url": "https://www.coursera.org/search?query=Python%20for%20Data%20Science%20AI%20and%20Development",
+      "tags": ["python", "data science", "notebooks"]
+    },
+    {
+      "id": "py-04",
+      "title": "Python Data Structures",
+      "provider": "University of Michigan",
+      "category": "Python",
+      "level": "Intermediate",
+      "description": "Practice working with strings, files, lists, dictionaries, and tuples.",
+      "url": "https://www.coursera.org/search?query=Python%20Data%20Structures",
+      "tags": ["python", "data structures"]
+    },
+    {
+      "id": "tools-01",
+      "title": "Tools for Data Science",
+      "provider": "IBM",
+      "category": "Data Analysis Tools",
+      "level": "Beginner",
+      "description": "Explore notebooks, development environments, and tools used in data work.",
+      "url": "https://www.coursera.org/search?query=Tools%20for%20Data%20Science",
+      "tags": ["data analysis", "jupyter", "tools"]
+    },
+    {
+      "id": "tools-02",
+      "title": "Excel Skills for Business: Essentials",
+      "provider": "Macquarie University",
+      "category": "Data Analysis Tools",
+      "level": "Beginner",
+      "description": "Build spreadsheet and formula skills for organizing and analyzing information.",
+      "url": "https://www.coursera.org/search?query=Excel%20Skills%20for%20Business%20Essentials",
+      "tags": ["excel", "spreadsheet", "data analysis"]
+    },
+    {
+      "id": "tools-03",
+      "title": "Data Analysis with Python",
+      "provider": "IBM",
+      "category": "Data Analysis Tools",
+      "level": "Intermediate",
+      "description": "Analyze datasets with Python and common data-processing libraries.",
+      "url": "https://www.coursera.org/search?query=Data%20Analysis%20with%20Python",
+      "tags": ["pandas", "python", "analysis"]
+    },
+    {
+      "id": "tools-04",
+      "title": "Data Visualization with Tableau",
+      "provider": "University of California, Davis",
+      "category": "Data Analysis Tools",
+      "level": "Beginner",
+      "description": "Understand visualization principles and start working with Tableau.",
+      "url": "https://www.coursera.org/search?query=Data%20Visualization%20with%20Tableau",
+      "tags": ["tableau", "visualization", "dashboards"]
+    },
+    {
+      "id": "ds-01",
+      "title": "What is Data Science?",
+      "provider": "IBM",
+      "category": "Data Science",
+      "level": "Beginner",
+      "description": "Discover the role of data scientists and the main stages of a data science project.",
+      "url": "https://www.coursera.org/search?query=What%20is%20Data%20Science",
+      "tags": ["data science", "career", "foundations"]
+    },
+    {
+      "id": "ds-02",
+      "title": "IBM Data Science Professional Certificate",
+      "provider": "IBM",
+      "category": "Data Science",
+      "level": "Beginner",
+      "description": "Follow a multi-course pathway in Python, SQL, analysis, and machine learning.",
+      "url": "https://www.coursera.org/search?query=IBM%20Data%20Science%20Professional%20Certificate",
+      "tags": ["data science", "sql", "python", "certificate"]
+    },
+    {
+      "id": "ds-03",
+      "title": "Applied Data Science with Python Specialization",
+      "provider": "University of Michigan",
+      "category": "Data Science",
+      "level": "Intermediate",
+      "description": "Apply Python methods to data analysis, visualization, and machine learning.",
+      "url": "https://www.coursera.org/search?query=Applied%20Data%20Science%20with%20Python",
+      "tags": ["data science", "machine learning", "python"]
+    },
+    {
+      "id": "ds-04",
+      "title": "Data Science Methodology",
+      "provider": "IBM",
+      "category": "Data Science",
+      "level": "Beginner",
+      "description": "Learn a structured approach to framing and solving data problems.",
+      "url": "https://www.coursera.org/search?query=Data%20Science%20Methodology",
+      "tags": ["data science", "methodology"]
+    },
+    {
+      "id": "nano-01",
+      "title": "Nanotechnology: A Maker's Course",
+      "provider": "Duke University and North Carolina State University",
+      "category": "Nanotechnology",
+      "level": "Beginner",
+      "description": "An introduction to nanoscale science, fabrication methods, and applications.",
+      "url": "https://www.coursera.org/search?query=Nanotechnology%20A%20Makers%20Course",
+      "tags": ["nanotechnology", "materials", "engineering"]
+    },
+    {
+      "id": "nano-02",
+      "title": "Nanotechnology and Nanosensors, Part 1",
+      "provider": "Technion – Israel Institute of Technology",
+      "category": "Nanotechnology",
+      "level": "Intermediate",
+      "description": "Explore nanoscale sensors and related concepts in nanoscience.",
+      "url": "https://www.coursera.org/search?query=Nanotechnology%20and%20Nanosensors",
+      "tags": ["nanotechnology", "sensors", "physics"]
+    },
+    {
+      "id": "js-01",
+      "title": "Programming with JavaScript",
+      "provider": "Meta",
+      "category": "JavaScript",
+      "level": "Beginner",
+      "description": "Practice the JavaScript language, functions, and programming fundamentals.",
+      "url": "https://www.coursera.org/search?query=Programming%20with%20JavaScript",
+      "tags": ["javascript", "web development"]
+    },
+    {
+      "id": "js-02",
+      "title": "JavaScript Basics",
+      "provider": "University of California, Davis",
+      "category": "JavaScript",
+      "level": "Beginner",
+      "description": "Learn introductory JavaScript for interactive webpages.",
+      "url": "https://www.coursera.org/search?query=JavaScript%20Basics",
+      "tags": ["javascript", "web", "beginner"]
+    },
+    {
+      "id": "js-03",
+      "title": "Interactivity with JavaScript",
+      "provider": "University of Michigan",
+      "category": "JavaScript",
+      "level": "Intermediate",
+      "description": "Add interactive features to webpages with JavaScript.",
+      "url": "https://www.coursera.org/search?query=Interactivity%20with%20JavaScript",
+      "tags": ["javascript", "dom", "web development"]
+    },
+    {
+      "id": "js-04",
+      "title": "HTML, CSS, and Javascript for Web Developers",
+      "provider": "Johns Hopkins University",
+      "category": "JavaScript",
+      "level": "Beginner",
+      "description": "Learn foundational frontend web technologies including JavaScript.",
+      "url": "https://www.coursera.org/search?query=HTML%20CSS%20and%20Javascript%20for%20Web%20Developers",
+      "tags": ["html", "css", "javascript"]
+    }
+  ]
+}
